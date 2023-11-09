@@ -8,4 +8,3 @@ _build
 .python-version
 private/
 .idea/
-generated-engine-scripts/
